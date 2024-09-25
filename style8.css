@@ -1,0 +1,14 @@
+body {
+  max-width: 600px;
+  margin: 50px auto;
+  font-family: Arial;
+}
+
+h1 {
+  color: darkgreen;
+  text-align: center;
+}
+
+p {
+  line-height: 1.6;
+}
